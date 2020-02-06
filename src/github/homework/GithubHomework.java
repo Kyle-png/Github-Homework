@@ -7,7 +7,9 @@ public class GithubHomework {
         for(int x = 0; x < numbers.length; x++){
             numbers[x] = x+1;
             System.out.println(numbers[x]);
+            System.out.println("0.7734");
         }
     }
+    
     
 }
